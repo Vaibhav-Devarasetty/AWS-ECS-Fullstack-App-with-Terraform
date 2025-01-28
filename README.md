@@ -52,7 +52,7 @@ The Infrastructure folder has Terraform code for AWS resources. The *Modules* fo
 Diagram of the deployed infrastructure:
 
 <p align="center">
-  <img src="Documentation_assets/Infrastructure_architecture.png"/>
+  <img src="Images/Infrastructure_architecture.png"/>
 </p>
 
 ### Infrastructure Considerations
@@ -64,7 +64,7 @@ The task definition template has hardcoded memory and CPU values. Modify them us
 Diagram of the CI/CD architecture:
 
 <p align="center">
-  <img src="Documentation_assets/CICD_architecture.png"/>
+  <img src="Images/CICD_architecture.png"/>
 </p>
 
 ## Prerequisites
